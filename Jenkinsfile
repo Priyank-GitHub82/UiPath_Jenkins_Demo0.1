@@ -10,7 +10,7 @@ pipeline {
 	        UIPATH_ORCH_URL = "https://cloud.uipath.com/"
 	        UIPATH_ORCH_LOGICAL_NAME = "simplifynextpteltd"
 	        UIPATH_ORCH_TENANT_NAME = "DefaultTenant"
-	        UIPATH_ORCH_FOLDER_NAME = "Test Suite Demo"
+	        UIPATH_ORCH_FOLDER_NAME = "Test Suite Demo" 
 	    }
 	
 
