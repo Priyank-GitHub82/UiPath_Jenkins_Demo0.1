@@ -33,7 +33,7 @@
       "includeOriginalXaml": false,
       "privateWorkflows": []
     },
-    "processOptions": {
+    "processOptions":  {
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
